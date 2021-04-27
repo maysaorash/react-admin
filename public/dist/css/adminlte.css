@@ -4284,7 +4284,7 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #f8f6f6;
 }
 
 .nav-tabs .nav-item {
@@ -4406,6 +4406,7 @@ input[type="button"].btn-block {
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
+  /* color:red; */
 }
 
 .navbar-nav .dropdown-menu {
